@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dummy Letter</string>
+    <string name="enter_your_message_here">Enter a message to your manager here:</string>
+    <string name="send">Send</string>
+    <string name="email_sent">Email has been received by %1$s</string>
+    <string name="failed">Email is not send:</string>
+</resources>
